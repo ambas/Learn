@@ -3,3 +3,4 @@
 
 ## Movement
 - F/f + [Character] : move curesor to prev/next occurence of a Character
+- [number]cf[Character] : delete and move cursor to the specfic character in `number` of occrence also enter insertmode
