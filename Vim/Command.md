@@ -8,5 +8,3 @@
 ## Text Replacement
 - :%s/[old]/[new] : replace occurence with the new word
 - move to open func and di[{] : remove whole function body
-
-let (p1, p2, cost) = ($1[0], $1[1], $1[2]) 
